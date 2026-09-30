@@ -1,8 +1,5 @@
 """Rocket Lab Dados 2026.2 - Atividade PySpark (resolvida)
 
-Coloque os CSVs na pasta definida em DATA_DIR e rode: python atividade_pyspark.py
-Requer: pip install pyspark (e Java instalado)
-"""
 
 # ======================================================================
 # Setup e carga de metal_bands
